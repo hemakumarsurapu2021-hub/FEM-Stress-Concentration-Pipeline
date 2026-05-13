@@ -1,0 +1,13 @@
+=== Case summary ===
+lc                 : 3
+nodes              : 175316
+elements (T6)      : 87208
+elems on ellipse   : 152
+elems on circle    : 216
+sigma_max_ellipse  : 37.378263 MPa  at  theta = 1.5634 rad
+sigma_max_circle   : 38.263296 MPa  at  theta = 1.3817 rad
+Kt_ellipse  (FEM)  : 3.737826
+Kt_circle   (FEM)  : 3.826330
+Kt_ellipse  (Inglis): 4.600000
+absolute error     : 0.862174
+relative error (%): 18.7429

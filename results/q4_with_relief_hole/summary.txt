@@ -1,0 +1,14 @@
+=== Case summary ===
+lc                     : 3
+nodes                  : 40274
+elements (Q4)          : 39744
+elems on ellipse       : 192
+elems on circle        : 272
+sigma_max_ellipse      : 30.098219 MPa  at  theta = 1.5708 rad
+sigma_max_circle       : 30.819525 MPa  at  theta = 1.4091 rad
+Kt_ellipse  (FEM)      : 3.009822
+Kt_circle   (FEM)      : 3.081952
+ratio circle/ellipse   : 1.023965
+Delta sigma (max)      : 30.490650 MPa
+absolute error vs 46   : 15.901781 MPa
+relative error (%)    : 34.5691
