@@ -11,10 +11,6 @@ b = 45.72;       // ellipse major (y-direction)
 W = 254;
 H = 254;
 
-cx = 38.10;      // circle center
-cy = 33.02;
-r  = 12.70;
-
 lc = 10;
 
 // ---------------- POINTS ----------------
